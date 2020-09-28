@@ -12,7 +12,6 @@
         <input type="text" name="name" placeholder:"nombre completo">
         <input type="email" name="email" placeholder:"email">
         <input type="submit" name="register">
-        <label for=""></label>
     </form>
 
         <?php
